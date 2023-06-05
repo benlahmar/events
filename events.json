@@ -1,0 +1,88 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Concert de rock",
+      "date": "2023-06-10",
+      "country": "France",
+      "city": "Paris",
+      "address": "20 Rue de la Musique",
+      "description": "Un concert électrisant avec des groupes de rock renommés.",
+      "organizer": "Rock Music Productions",
+      "ticketsAvailable": 500,
+      "ticketPrice": 35.99
+    },
+    {
+      "id": 2,
+      "title": "Conférence sur la technologie",
+      "date": "2023-06-15",
+      "country": "États-Unis",
+      "city": "San Francisco",
+      "address": "123 Main Street",
+      "description": "Une conférence informative sur les dernières avancées technologiques.",
+      "organizer": "TechCon Inc.",
+      "ticketsAvailable": 200,
+      "ticketPrice": 149.99
+    },
+    {
+      "id": 3,
+      "title": "Festival de musique",
+      "date": "2023-07-02",
+      "country": "Espagne",
+      "city": "Barcelone",
+      "address": "Avenida de la Musica, 1",
+      "description": "Un festival de musique animé avec des artistes internationaux.",
+      "organizer": "MusicFest Productions",
+      "ticketsAvailable": 1000,
+      "ticketPrice": 45.50
+    },
+    {
+      "id": 4,
+      "title": "Art Exhibition",
+      "date": "2023-07-20",
+      "country": "United Kingdom",
+      "city": "London",
+      "address": "10 Gallery Street",
+      "description": "A stunning art exhibition showcasing contemporary works from renowned artists.",
+      "organizer": "Artistic Expressions",
+      "ticketsAvailable": 300,
+      "ticketPrice": 20.99
+    },
+    {
+      "id": 5,
+      "title": "Food Festival",
+      "date": "2023-08-05",
+      "country": "Italy",
+      "city": "Rome",
+      "address": "Piazza del Gusto",
+      "description": "A gastronomic delight featuring a variety of local and international cuisines.",
+      "organizer": "Foodie Events",
+      "ticketsAvailable": 500,
+      "ticketPrice": 15.50
+    },
+    {
+      "id": 6,
+      "title": "Sports Tournament",
+      "date": "2023-08-15",
+      "country": "Germany",
+      "city": "Berlin",
+      "address": "Sports Arena",
+      "description": "An exciting sports tournament with teams competing in various disciplines.",
+      "organizer": "Sports Mania",
+      "ticketsAvailable": 1000,
+      "ticketPrice": 25.00
+    },
+    {
+      "id": 7,
+      "title": "Film Festival",
+      "date": "2023-09-10",
+      "country": "Canada",
+      "city": "Toronto",
+      "address": "Cinema Boulevard",
+      "description": "A celebration of cinema featuring screenings of international films and Q&A sessions with filmmakers.",
+      "organizer": "FilmFest Productions",
+      "ticketsAvailable": 400,
+      "ticketPrice": 12.99
+    }
+  ]
+}
